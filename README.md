@@ -30,16 +30,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mozhganEtaati&show_icons=true&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=mozhganEtaati&theme=radical&hide_border=true)  
 
 ---
 
-## 👀 Visitor Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=mozhganEtaati&color=blue&style=for-the-badge)  
-
----
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mozhgan-etaati-53b166163)  

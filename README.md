@@ -35,10 +35,6 @@ I enjoy turning complex requirements into elegant, efficient solutions — alway
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mozhganEtaati&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mozhganEtaati&show_icons=true&theme=tokyonight" height="165" />
 </p>
 

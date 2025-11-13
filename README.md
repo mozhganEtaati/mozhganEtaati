@@ -40,7 +40,6 @@ I enjoy turning complex requirements into elegant, efficient solutions — alway
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mozhganEtaati&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozhganEtaati&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 

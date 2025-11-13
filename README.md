@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Mozhgan Etaati  
+<div align="center">
+<h1>👋 Hi, I'm Mozhgan Etaati</h1>
 
 💻 **.NET Developer | Problem Solver | Lifelong Learner | Team Player**  
 🔍 Passionate about designing scalable backend systems and writing clean, maintainable code  
-
----
+</div>
 
 ## 🚀 About Me
 I’m a dedicated **.NET Developer** with a strong focus on **backend development** and **software architecture**.  
